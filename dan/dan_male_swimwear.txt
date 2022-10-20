@@ -1,0 +1,12 @@
+male_swimwear
+black_male_swimwear
+blue_male_swimwear
+white_male_swimwear
+red_male_swimwear
+print_male_swimwear
+green_male_swimwear
+yellow_male_swimwear
+orange_male_swimwear
+grey_male_swimwear
+purple_male_swimwear
+brown_male_swimwear

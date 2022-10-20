@@ -1,0 +1,11 @@
+corset
+black_corset
+brown_corset
+white_corset
+red_corset
+blue_corset
+purple_corset
+frilled_corset
+latex_corset
+armored_corset
+neck_corset

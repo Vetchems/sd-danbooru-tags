@@ -1,0 +1,11 @@
+shoes
+no_shoes
+paw_shoes
+dress_shoes
+spiked_shoes
+hoof_shoes
+toe_shoes
+large_shoes
+hull_shoes
+armored_shoes
+saddle_shoes

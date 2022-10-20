@@ -1,0 +1,11 @@
+ponytail
+side_ponytail
+high_ponytail
+low_ponytail
+short_ponytail
+folded_ponytail
+braided_ponytail
+front_ponytail
+wide_ponytail
+split_ponytail
+drill_ponytail
