@@ -1,0 +1,17 @@
+glasses
+sunglasses
+opaque_glasses
+aviator_sunglasses
+coke-bottle_glasses
+shooting_glasses
+safety_glasses
+funny_glasses
+x-ray_glasses
+3d_glasses
+partially_opaque_glasses
+sports_sunglasses
+teardrop-framed_glasses
+nodoka_glasses
+fancy_glasses
+fogged_glasses
+glowing_glasses

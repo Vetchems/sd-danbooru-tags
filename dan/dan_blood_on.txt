@@ -1,0 +1,14 @@
+blood_on_face
+blood_on_clothes
+blood_on_hands
+blood_on_arm
+blood_on_breasts
+blood_on_leg
+blood_on_bandages
+blood_on_chest
+blood_on_dress
+blood_on_feet
+blood_on_gloves
+blood_on_teeth
+blood_on_shoes
+blood_on_mask
